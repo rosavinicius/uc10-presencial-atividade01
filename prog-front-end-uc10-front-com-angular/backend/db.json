@@ -1,6 +1,15 @@
 {
   "casa": [],
-  "cadastro": [],
+  "cadastro": [
+    {
+      "email": "colomboa677@gmail.com",
+      "cpf": "3824028039482934",
+      "nome": "amanda palmeirae",
+      "dataNasc": "2021-11-24",
+      "telefone": "3343423423423",
+      "id": 1
+    }
+  ],
   "compra": [],
   "evento": []
 }
